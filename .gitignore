@@ -1,0 +1,11 @@
+.bashrc
+.viminfo
+.composer/
+.tmux/
+.bash_logout
+.cache/
+.profile
+libevent/
+src_code/
+tmux/
+
